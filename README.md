@@ -1,70 +1,34 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+***Description***
+Healthcare app designed exclusively for individuals aged 60 and above, empowering them to lead a healthy and fulfilling life. Our mission is to provide you with the tools and resources necessary to prioritize your well-being, promote longevity, and enhance your overall quality of life.
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Tech-Stack**
+  
+  HTML, CSS, JavaScript  for developing the user interface & interactions.
+React- JavaScript library for building reusable UI components and managing app state.
+   
+   ***Features***
+   ##pages
+   
+   About Page--its a simple page which  gives detail info about the reason behind the healthcare app![about page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/f254aef1-e6e3-4e14-a73e-5318ca7f9ba9)
 
-In the project directory, you can run:
+ SignUpPage- SignUp Page wher user can fill basic info as name,email,number and can register themselves.created a simple form using react component library for bootstrap i.e reactstrap .it displaymesssage once user gets registered.![signup page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/6db14a94-8aca-47f9-be77-11fc90557ca1)
 
-### `npm start`
+ 
+ Login Page--Signup Page from which user can signup. created a simple form using react component library for bootstrap i.e reactstrap.it display message once user logged in![login page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/84605c6c-cff6-4aac-a7e1-bf5b24b92c9f)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##Components
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ Exercise Schedule--created a variety of exercise programs  which have weekly  schedule as per needs of seniors, including strength training, flexibility exercises, yoga, and gentle cardio workouts.![exercise page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/36afe51c-3a0a-4e77-9270-9bb793c93af0)
+ 
+ Notifications--created medicine and water reminders to receive notifications and ensure timely medicine and water intake.
+ ![notification page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/b2607084-0574-4d6f-a86e-19fc2f36f7de)
 
-### `npm test`
+Medicine List-- created medicine list component in which user can list prescribed medicine and  once taken it is removed from list and  notifies user![medication list page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/93e19165-5367-47dc-bc5f-5250365a1aab)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Community Club-- Created community component in which people can  connnect with others in the same age group . Discover local community events and activities to make social connections.![community page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/2d8e9945-40ef-40f3-9977-88420a1c1525)
 
-### `npm run build`
+Health Facts--its a simple page which contains all the fact required to live balance life .one can view and read the advised tips bt professionals.![healthfact page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/38aff8f6-867c-4abf-b6d9-c363caf872aa)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
