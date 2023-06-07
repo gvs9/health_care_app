@@ -7,8 +7,12 @@ Healthcare app designed exclusively for individuals aged 60 and above, empowerin
   
   HTML, CSS, JavaScript  for developing the user interface & interactions.
 React- JavaScript library for building reusable UI components and managing app state.
-   
+  
    ***Features***
+   
+   
+    Custom Navbar-- Craeted Custom Navbar which contains all the features in navbar.used routing to go to different pages without loading
+   
    ##pages
    
    About Page--its a simple page which  gives detail info about the reason behind the healthcare app![about page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/f254aef1-e6e3-4e14-a73e-5318ca7f9ba9)
