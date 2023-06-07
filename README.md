@@ -6,6 +6,7 @@ Healthcare app designed exclusively for individuals aged 60 and above, empowerin
   **Tech-Stack**
   
   HTML, CSS, JavaScript  for developing the user interface & interactions.
+  //
 React- JavaScript library for building reusable UI components and managing app state.
   
    ***Features***
