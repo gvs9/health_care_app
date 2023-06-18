@@ -21,7 +21,7 @@ React- JavaScript library for building reusable UI components and managing app s
  SignUpPage- SignUp Page wher user can fill basic info as name,email,number and can register themselves.created a simple form using react component library for bootstrap i.e reactstrap .it displaymesssage once user gets registered.![signup page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/6db14a94-8aca-47f9-be77-11fc90557ca1)
 
  
- Login Page--Signup Page from which user can signup. created a simple form using react component library for bootstrap i.e reactstrap.it display message once user logged in![login page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/84605c6c-cff6-4aac-a7e1-bf5b24b92c9f)
+ Login Page--Login Page from which user can login. created a simple form using react component library for bootstrap i.e reactstrap.it display message once user logged in![login page](https://github.com/gvs9/health_care_app.github.io/assets/92633276/84605c6c-cff6-4aac-a7e1-bf5b24b92c9f)
 
 ##Components
 
